@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of forumaker/yandex-oauth.** Not for installation: use [Packagist](https://packagist.org/packages/forumaker/yandex-oauth) or the [upstream repository](https://github.com/forumaker/Yandex-Oauth).
 
-**0** versions archived · Latest: [`2.3.0`](https://github.com/flarchive/forumaker-yandex-oauth/tree/archive/v2.3.0) · License: `MIT` · Flarum: `^2.0`
+**5** versions archived · Latest: [`2.3.0`](https://github.com/flarchive/forumaker-yandex-oauth/tree/archive/v2.3.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-03-27 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-yandex-oauth/tree/archive/v2.0.0) |
+| `2.1.0` | 2026-03-28 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-yandex-oauth/tree/archive/v2.1.0) |
+| `2.2.0` | 2026-04-26 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-yandex-oauth/tree/archive/v2.2.0) |
+| `2.2.2` | 2026-07-07 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-yandex-oauth/tree/archive/v2.2.2) |
+| `2.3.0` | 2026-08-19 | `^2.0` | [Browse](https://github.com/flarchive/forumaker-yandex-oauth/tree/archive/v2.3.0) |
 
 Catalog entry: [packages/forumaker-yandex-oauth.json](https://github.com/flarchive/archive-index/blob/main/packages/forumaker-yandex-oauth.json)
 
